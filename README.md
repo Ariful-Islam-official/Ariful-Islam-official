@@ -11,7 +11,7 @@
 
 I am a Software Engineer with experience in corporate and startup environments, working on scalable software systems, enterprise application development, system optimization, and technical training. I also contribute as a trainer in programming, web development, cybersecurity, and AI-based learning. In addition, I am a co-founder of a growing technology company focused on software solutions and innovation.  
  
-- 💼 Software Engineer at **Diligite**
+- 💼 Software Engineer at **Diligite Ltd.**
 - 🚀 Co-Founder of **Black Origin**
 - 🎓 Adjunct Trainer at **IT Business Incubator, CUET**
 - 🧑‍🏫 Former Trainer at **EDGE IICT CUET DST**
