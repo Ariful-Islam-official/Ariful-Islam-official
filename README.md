@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ariful Islam</h1>
-<h3 align="center">Software Engineer | Trainer | Web Developer | Python & AI Enthusiast</h3>
+<h3 align="center">Software Engineer | Trainer | Web Developer | Python & AI Enthusiast | DevOps Engineer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Software+Engineer;Trainer+%26+Mentor;Web+Developer;Python+%26+AI+Enthusiast;Co-Founder+at+Black+Origin" alt="Typing SVG" />
