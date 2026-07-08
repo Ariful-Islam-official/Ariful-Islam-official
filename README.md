@@ -139,6 +139,3 @@ I enjoy building technology that creates **real-world impact** and helps learner
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ariful-Islam-official&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
