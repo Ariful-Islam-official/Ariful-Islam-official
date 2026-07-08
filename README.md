@@ -2,139 +2,156 @@
 <h3 align="center">Software Engineer | Trainer | Web Developer | Python & AI Enthusiast</h3>
 
 <p align="center">
-  I build scalable software, train future developers, and work on real-world technology solutions.
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Software+Engineer;Trainer+%26+Mentor;Web+Developer;Python+%26+AI+Enthusiast;Co-Founder+at+Black+Origin" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Location-Chattogram%2C%20Bangladesh-0A66C2?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Role-Software%20Engineer-111827?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Open%20To-Collaboration-16A34A?style=for-the-badge&logo=handshake&logoColor=white" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 About Me
 
-I am a Software Engineer with experience in corporate and startup environments, working on scalable software systems, enterprise application development, system optimization, and technical training. I also contribute as a trainer in programming, web development, cybersecurity, and AI-based learning. In addition, I am a co-founder of a growing technology company focused on software solutions and innovation.  
- 
-- 💼 Software Engineer at **Diligite Ltd.**
-- 🚀 Co-Founder of **Black Origin**
-- 🎓 Adjunct Trainer at **IT Business Incubator, CUET**
-- 🧑‍🏫 Former Trainer at **EDGE IICT CUET DST**
-- 🌱 Currently exploring **DevOps, AI, Machine Learning, Cloud, and Scalable Systems**
-- 📍 Chattogram, Bangladesh
-- 📫 Email: **arifulislamofficialedu@gmail.com**
+I am a **Software Engineer** with experience in both **corporate** and **startup** environments.  
+I work on scalable software systems, enterprise-grade applications, optimization, training, and practical technology solutions.
 
----
+Alongside development, I actively deliver training in:
+- **Python Programming**
+- **Basic Web Development**
+- **Python Django**
+- **Cyber Security**
+- **AI & Machine Learning**
+- **CCNA and Productivity Tools**
 
-## 💼 Professional Experience
-
-### **Software Engineer — Diligite**
-- Building and maintaining scalable enterprise-grade software systems
-- Troubleshooting software issues and improving performance
-- Working with cross-functional teams to deliver quality solutions
-
-### **Co-Founder & Software Engineer — Black Origin**
-- Leading software and web development projects
-- Managing development workflows and technical implementation
-- Delivering software solutions and IT consultancy services
-
-### **Trainer — EDGE IICT CUET DST**
-- Conducted training on **Basic Programming with Python**, **Basic Web Development**, and **Python Django**
-- Delivered **250+ hours** of instruction
-- Trained **180 students** across multiple venues
-
-### **Adjunct Trainer — IT Business Incubator, CUET**
-- Delivered training in **Cyber Security** and **AI & Machine Learning using Python**
-- Conducted academic and industrial training for fresh graduates
-- Trained nearly **190 learners**
-
-### **Instructor — Black Origin**
-- Trained learners in **CCNA**, **Microsoft Word**, **Microsoft PowerPoint**, and **Microsoft Excel**
+I enjoy building technology that creates **real-world impact** and helps learners become **industry-ready**.
 
 ---
 
-## 🛠️ Skills
+## 💼 Current Roles
 
-### **Programming & Development**
-- Python
-- Java
-- C
-- C++
-- HTML5
-- CSS3
-- JavaScript
-- React
-- Django
+- 💻 **Software Engineer at Diligite**
+- 🚀 **Co-Founder & Software Engineer at Black Origin**
+- 🎓 **Adjunct Trainer at IT Business Incubator, CUET**
+- 🧑‍🏫 **Trainer at EDGE IICT CUET DST**
+- 📚 **Instructor for CCNA, Word, Excel, and PowerPoint**
 
-### **DevOps & Cloud**
-- YAML
-- Bash Scripting
-- AWS
-- Ansible
-- Docker
-- Kubernetes
-- Terraform
-- CI/CD
-- Jenkins
+---
 
-### **Cybersecurity & Networking**
+## 🛠️ Tech Stack
+
+### 💻 Programming & Development
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,html,css,js,react,django" />
+</p>
+
+### ⚙️ DevOps & Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,terraform,ansible,bash,githubactions" />
+</p>
+
+### 🗄️ Database & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,pycharm,linux" />
+</p>
+
+### 🌐 Networking / Security / Platforms
 - CCNA
 - MikroTik
 - Cybersecurity Fundamentals
 - Kali Linux
 - Ubuntu
 - CentOS
-
-### **Database & Tools**
-- SQL
-- MySQL
-- Git
-- GitHub
-- Git Bash
-- VS Code
-- PyCharm
-- VMware
 - Packet Tracer
-- Linux OS
+- VMware
 
 ---
 
-## 📚 Education
+## 📈 Experience Highlights
+
+### 💼 Diligite — Software Engineer
+- Working in a professional software environment
+- Building and maintaining scalable enterprise systems
+- Troubleshooting software issues and improving reliability
+- Collaborating with teams for high-quality delivery
+
+### 🚀 Black Origin — Co-Founder & Software Engineer
+- Leading project development and technical execution
+- Managing team workflows and product planning
+- Delivering web and software solutions with business impact
+
+### 🧑‍🏫 EDGE IICT CUET DST — Trainer
+- Conducted training in **Python**, **Basic Web Development**, and **Python Django**
+- Delivered **250+ hours** of instruction
+- Trained **180 students**
+
+### 🎓 IT Business Incubator, CUET — Adjunct Trainer
+- Delivered training in **Cyber Security** and **AI & Machine Learning using Python**
+- Conducted industrial training for fresh graduates
+- Trained nearly **190 learners**
+
+---
+
+## 🎓 Education
 
 **B.Sc. in Electronic and Telecommunication Engineering (ETE)**  
-International Islamic University Chittagong  
-CGPA: **3.365 / 4.00**
+📍 International Islamic University Chittagong  
+🎯 CGPA: **3.365 / 4.00**
 
 ---
 
-## 🚀 Featured Projects
+## 🌟 Featured Projects
 
-- **Python_With_Machine-Learning-2025**
-- **Machine_Learning_project**
-- **Django-Projects-for-beginners**
-- **CurrencyConverter**
-- **Password-Generator**
-- **Secret-Communication**
-- **Rock-Paper-Scissors**
-- **Tic-Tac-Toe**
-- **Google Sheet Automated Employee Data Entry Project**
-- **Dynamic Attendance Management Sheet Using Excel and Google Sheets**
+- 🔹 **Python_With_Machine-Learning-2025**
+- 🔹 **Machine_Learning_project**
+- 🔹 **Django-Projects-for-beginners**
+- 🔹 **CurrencyConverter**
+- 🔹 **Password-Generator**
+- 🔹 **Secret-Communication**
+- 🔹 **Rock-Paper-Scissors**
+- 🔹 **Tic-Tac-Toe**
+- 🔹 **Google Sheet Automated Employee Data Entry Project**
+- 🔹 **Dynamic Attendance Management Sheet Using Excel and Google Sheets**
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ariful-Islam-official&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ariful-Islam-official&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ariful-Islam-official&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
 ## 🌐 Connect With Me
 
-- **LinkedIn:** ariful-islam-devops-network
-- **GitHub:** [Ariful-Islam-official](https://github.com/Ariful-Islam-official)
-- **Email:** arifulislamofficialedu@gmail.com
+<p align="left">
+  <a href="mailto:arifulislamofficialedu@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Ariful-Islam-official">
+    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/ariful-islam-devops-network/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-## 📊 GitHub Stats
+## ✨ Personal Mission
+
+> I believe in continuous learning, practical problem-solving, and building software that helps people, businesses, and learners grow in the digital world.
+
+---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ariful-Islam-official&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ariful-Islam-official&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ariful-Islam-official&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://komarev.com/ghpvc/?username=Ariful-Islam-official&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
